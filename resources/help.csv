@@ -1,0 +1,78 @@
+LENGTH,
+cm ,centimeter
+mm,milimeter
+km ,kilometer
+hm,hectometer
+dam,decameter
+m,meter
+dm,decimeter
+mim,micrometer
+nm,nanometer
+yard,yard
+feet,feet
+inch,inch
+mile,mile
+nmile,nautical mile
+ly,light year
+p,parsec
+ang,angstrom
+MASS,
+kg,kilogram
+g,gram
+mg,miligram
+micg,microgram
+ton,tonne
+iton,imperial tonne
+uston,US tonne
+stone,stone
+pound,pound
+ounce,ounce
+TIME,
+sec,second
+nsec,nanosecond
+micsec,microsecond
+msec,milisecond
+min,minute
+hour,hour
+day,day
+week,week
+month,month
+year,year
+decade,decade
+century,century
+VOLUME,
+cubicm,cubic meter
+l,litre
+ml,mililitre
+uslg,US Liquid Gallon
+uslq,US Liquid Quint
+uslp,US Liquid Pint
+uslc,US Legal Cup
+usfo,US Fluid Ounce
+ustbsp,US Tablespoon
+ustsp,US Teaspoon
+ig,Imperial Gallon
+iq,Imperial Liquid Quint
+ip,Imperial Liquid Pint
+ic,Imperial Legal Cup
+ifo,Imperial Fluid Ounce
+itbsp,Imperial Tablespoon
+tsp,Imperial Teaspoon
+cubicf,Cubic Foot
+cubici,Cubic Inch
+ENERGY,
+j,joule
+kj,kilojoule
+cal,calorie
+kcal,kilocalorie
+wh,watt-hour
+kwh,kilowatt-hour
+ev,Electron Volt
+btu,British Thermal Unit
+ust,US Therm
+fp,Foot Pound
+VELOCITY,
+m/s,meter per second
+km/h,kilometer per hour
+mile/h,mile per hour
+knot,knot
